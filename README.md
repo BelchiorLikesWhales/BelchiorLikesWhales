@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BelchiorLikesWhales, or just Belchior. I'm a starter programmer.
+- 👀 I’m interested in a lot of programming languages, specially in C, C++ or C#.
+- 🌱 I know a few things of Java, JavaScript, C#, Arduino and React.
+- 💞️ I’m looking to collaborate on any project I like and find interesting.
+- 📫 How to reach me? You can check out my Discord: Belchior#8853.
+- 👋 About my personal tastes beside programming stuff, I like a lot of videogames in general, I like animations, movies and cartoons and music.
